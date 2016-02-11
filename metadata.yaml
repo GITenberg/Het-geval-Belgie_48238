@@ -1,0 +1,33 @@
+_repo: Het-geval-Belgie_48238
+contributor:
+  translators:
+  - agent_name: Descartes, René
+    alias: Descartes, Rene
+    birthdate: 1596
+    deathdate: 1650
+    gutenberg_agent_id: '44'
+    url: http://www.gutenberg.org/2009/agents/44
+    wikipedia: http://en.wikipedia.org/wiki/René_Descartes
+  - agent_name: Veer, Willem
+    gutenberg_agent_id: '44691'
+    url: http://www.gutenberg.org/2009/agents/44691
+creator:
+  author:
+    agent_name: Beck, James M. (James Montgomery)
+    alias: Beck, James Montgomery
+    birthdate: 1861
+    deathdate: 1936
+    gutenberg_agent_id: '3290'
+    url: http://www.gutenberg.org/2009/agents/3290
+    wikipedia: http://en.wikipedia.org/wiki/James_M._Beck
+description: ''
+gutenberg_issued: '2015-02-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48238'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Het geval België
+url: http://www.gutenberg.org/ebooks/48238

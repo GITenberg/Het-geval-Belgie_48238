@@ -1,4 +1,5 @@
 _repo: Het-geval-Belgie_48238
+_version: 0.1.0
 contributor:
   translators:
   - agent_name: Descartes, René
@@ -11,6 +12,9 @@ contributor:
   - agent_name: Veer, Willem
     gutenberg_agent_id: '44691'
     url: http://www.gutenberg.org/2009/agents/44691
+covers:
+- cover_type: archival
+  image_path: 48238-h/images/cover.jpg
 creator:
   author:
     agent_name: Beck, James M. (James Montgomery)
@@ -21,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3290
     wikipedia: http://en.wikipedia.org/wiki/James_M._Beck
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48238#Het-geval-Belgie
 gutenberg_issued: '2015-02-11'
 gutenberg_type: Text
 identifiers:
